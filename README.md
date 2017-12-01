@@ -22,8 +22,8 @@ open http://localhost:3000
 
 ### ScreenShots
 
-[HomePage with 2 active users](https://github.com/Garima1125/chattyapp/blob/master/screenshots/Homepage%20with%202%20users%20online.png?raw=true)
+!["HomePage with 2 active users"](https://github.com/Garima1125/chattyapp/blob/master/screenshots/Homepage%20with%202%20users%20online.png?raw=true)
 
-[Conversations](https://github.com/Garima1125/chattyapp/blob/master/screenshots/conversations.png?raw=true)
+!["Conversations"](https://github.com/Garima1125/chattyapp/blob/master/screenshots/conversations.png?raw=true)
 
-[Notifications](https://github.com/Garima1125/chattyapp/blob/master/screenshots/notification.png?raw=true)
+!["Notifications"](https://github.com/Garima1125/chattyapp/blob/master/screenshots/notification.png?raw=true)
